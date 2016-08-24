@@ -1,0 +1,11 @@
+#! /usr/bin/env python
+"""InstaCLI command line application."""
+
+
+def main():
+    """Run the InstaCLI command line application."""
+    pass
+
+
+if __name__ == "__main__":
+    main()
